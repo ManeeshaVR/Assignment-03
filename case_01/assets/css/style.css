@@ -4,21 +4,21 @@ section{
     position: absolute;
 }
 div{
-    background: palevioletred;
+    background: orangered;
     width: 50%;
     height: 50%;
     position: absolute;
 }
 section>div:nth-child(2){
-    background: greenyellow;
+    background: green;
     left: 50%;
 }
 section>div:nth-child(3){
-    background: skyblue;
+    background: yellow;
     bottom: 0;
 }
 section>div:last-child{
-    background: purple;
+    background: deeppink;
     bottom: 0;
     left: 50%;
 }
