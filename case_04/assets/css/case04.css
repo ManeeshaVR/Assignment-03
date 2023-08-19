@@ -6,10 +6,12 @@ section{
 
 div{
     position: sticky;
-    height: 100px;
+    height: 75px;
     width: 100%;
     top: 0;
     color: white;
+    font-size: 20px;
+    z-index: 9;
 }
 
 section:first-child{
